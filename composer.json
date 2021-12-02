@@ -23,7 +23,7 @@
         "API"
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^8.0",
         "psr/container": "^1.0",
         "prooph/event-store" : "^7.2",
         "roave/security-advisories": "dev-master",
